@@ -1,0 +1,9 @@
+{
+  "name": "tech-code-summit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portal do evento Tech & Code Summit com frontend e API local.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
